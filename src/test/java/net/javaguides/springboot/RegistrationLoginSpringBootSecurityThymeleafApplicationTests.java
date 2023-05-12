@@ -10,7 +10,5 @@ class RegistrationLoginSpringBootSecurityThymeleafApplicationTests {
 	void contextLoads() {
 	}
 
-	git remote add origin https://github.com/YupaTT/Login-Spring-Boot-Spring-Security-Thymeleaf-Hibernate-and-MySQL.git
-	git branch -M main
-	git push -u origin main
+
 }
