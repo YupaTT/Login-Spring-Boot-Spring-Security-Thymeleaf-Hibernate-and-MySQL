@@ -15,4 +15,13 @@ public class MainController {
 	public String home() {
 		return "registrar";
 	}
+	@GetMapping("/dashboart")
+	public String login() {
+		return "registrar";
+	}
+
+	@GetMapping("/")
+	public String home() {
+		return "registrar";
+	}
 }
